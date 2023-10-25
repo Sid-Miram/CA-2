@@ -17,7 +17,7 @@ const list = [
         hint:"capital is cairo"
     }  ,  {
         country:"france",
-        hint:"Participated in war with Egypt "
+        hint:"Participated in war against Egypt with U.K. and Israel for control of Suez Canal "
     }  ,  {
         country:"germany",
         hint:"The Austrian painter"
@@ -31,8 +31,8 @@ const list = [
         country:"italy",
         hint:"pizza"
     }  ,  {
-        country:"somalia",
-        hint:"diamonds"
+        country:"sierraleone",
+        hint:"Revolutionary United Front"
     } ,   
     {
         country:"china",
@@ -40,17 +40,13 @@ const list = [
     },
     {
         country:"england",
-        hint:"If two fishes in a pond are fighting then know that ______ has passed by."
+        hint:"“If two fish are fighting in a river, a long-legged ________ has just passed by.”"
     }  ,
     {
         country:"srilanka",
         hint:"raavan"
     },
-    {
-        country:"somalia",
-        hint:"diamonds"
-    }    
-    ,
+
     {
         country:"tibet",
         hint:"annexed by china"
